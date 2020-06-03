@@ -1,0 +1,1 @@
+python main.py -o C:\studentproj\counter-with-yolo-and-sort-master\count.mp4 -y C:\studentproj\counter-with-yolo-and-sort-master\yolo-coco
